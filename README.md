@@ -79,7 +79,7 @@ This project implements a **market checkout system** using Spring Boot, with a R
      Receipt:
      3 x A @ 50 cents each
      1 x B @ 30 cents each
-     Total: 160 cents
+     Total: 180.0 cents
      ```
 
 
